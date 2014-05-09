@@ -1,0 +1,2 @@
+#!/bin/bash
+livestreamer http://www.ustream.tv/channel/9408562 best --player mplayer
